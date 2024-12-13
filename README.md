@@ -7,6 +7,8 @@ CardioAr allows learners to interact immersively with 3D assets, gifs, and User 
 **Testing with IOS Device**:[link](https://helpx.adobe.com/aero/system-requirements.html)
 **System Requirments**:[link](https://helpx.adobe.com/aero/system-requirements-macos-windows.html)
 
+**Download Editable file**:[link](https://drive.google.com/drive/folders/12L_FQKOO6slv77qXt_zUaa-EAKQg4xQH?usp=sharing)
+
 **Resources**
 **Technical Stack**: Adobe Aero, Figma, 
 **GitHub**:[link](https://github.com/skapezempire/cardioAR.git)
