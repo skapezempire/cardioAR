@@ -2,17 +2,13 @@
 CardioAr allows learners to interact immersively with 3D assets, gifs, and User Interfaces of the human heart.  Learners get to immerse themselves in this AR scene hence giving them a different experience from the  the traditional way of learning.
 
 
-**System Requirements**
-**Testing with Andriod-Beta**: [link](https://helpx.adobe.com/aero/using/discover-augmented-reality-content.html)
-**Testing with IOS Device**:[link](https://helpx.adobe.com/aero/system-requirements.html)
-**System Requirments**:[link](https://helpx.adobe.com/aero/system-requirements-macos-windows.html)
 
 **Download Editable file**:[link](https://drive.google.com/drive/folders/12L_FQKOO6slv77qXt_zUaa-EAKQg4xQH?usp=sharing)
 
 **Resources**
 **Technical Stack**: Adobe Aero, Figma, 
 **GitHub**:[link](https://github.com/skapezempire/cardioAR.git)
-**Test Project**: [link](https://adobeaero.app.link/p2tGyr5CgPb)
+**Test cardioAR Project**: [link](https://adobeaero.app.link/p2tGyr5CgPb)
 **Realistic Human Heart**:[link](https://skfb.ly/oyBCT)
 **Lung and heart image**:[link](https://www.maxhealthcare.in/blogs/10-surprising-facts-about-lung-cancer)
 **Heartbeat sound**:[link](https://en.wikipedia.org/wiki/File:HROgg.ogg)
@@ -20,6 +16,15 @@ CardioAr allows learners to interact immersively with 3D assets, gifs, and User 
 **Respiration gif**[link](https://makeagif.com/i/Fdr_xR)
 
 SLide:[link](https://docs.google.com/presentation/d/1O_wOOJrq8XmINy79qbcEd2dDXPYlLEbKZQuP6_cox64/edit?usp=sharing)
+
+**Remix project**
+**System Requirements**
+**Download Adobe Aero** :[link](https://helpx.adobe.com/aero/get-started.html)
+**Download Editable cardioAR project**:[link](https://drive.google.com/drive/folders/12L_FQKOO6slv77qXt_zUaa-EAKQg4xQH?usp=sharing) and double click to launch
+**Testing with Andriod-Beta**: [link](https://helpx.adobe.com/aero/using/discover-augmented-reality-content.html)
+**Testing with IOS Device**:[link](https://helpx.adobe.com/aero/system-requirements.html)
+**System Requirments**:[link](https://helpx.adobe.com/aero/system-requirements-macos-windows.html)
+
 
 **Team Contributions**: 
 **Eliel and Laureate**:Responsible for getting 3D assets and researching about the heart and lungs hence, influencing the assets to use.
