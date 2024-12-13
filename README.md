@@ -19,6 +19,8 @@ CardioAr allows learners to interact immersively with 3D assets, gifs, and User 
 **Heartbeat gif**:[link](https://commons.wikimedia.org/wiki/File:CG_Heart.gif#/media/File:CG_Heart.gif)
 **Respiration gif**[link](https://makeagif.com/i/Fdr_xR)
 
+SLide:[link](https://docs.google.com/presentation/d/1O_wOOJrq8XmINy79qbcEd2dDXPYlLEbKZQuP6_cox64/edit?usp=sharing)
+
 **Team Contributions**: 
 **Eliel and Laureate**:Responsible for getting 3D assets and researching about the heart and lungs hence, influencing the assets to use.
 **Gladys**:Responsible for documenting resources, progress and tools used for the project to ensure we are tasked focused.
