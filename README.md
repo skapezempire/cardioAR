@@ -29,6 +29,9 @@ Day2;Placement of assets in the scene, adding interactivity,Test project in real
 ## Inspiration
 Over a month, our team lead found great interest in the YouTube channel Our History. The channel has a subchannel called, Autopsy, where doctors talk about why some famous stars suddenly die.
 He noticed a trend in about 99% of the autopsy reports that most of them die from cardiac arrest or respiratory issues due to unhealthy lifestyles like excessive smoking and snouting of illegal drugs, overworking, lack of sleep, and alcohol abuse.
+This was a popular trend in the 90's for stars.;
+The moment you become a star 🌟 , you need to have a cigar 🚬 . 
+This was part of their costume because by then, the contemporaries of that period did not know about the adverse effects of smoking.
 
 It was this that inspired him to get us to work on CardioAR to help inform/educate people about the heart and lungs as these organs are vital to our well-being and can cause serious health issues 
 when not cared for.
