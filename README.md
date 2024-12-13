@@ -10,6 +10,11 @@ CardioAr allows learners to interact immersively with 3D assets, gifs, and User 
 **Heartbeat gif**:[link](https://commons.wikimedia.org/wiki/File:CG_Heart.gif#/media/File:CG_Heart.gif)
 **Respiration gif**[link](https://makeagif.com/i/Fdr_xR)
 
+**System Requirements**
+**Testing with Andriod-Beta**: [link](https://helpx.adobe.com/aero/using/discover-augmented-reality-content.html)
+**Testing with IOS Device**:[link](https://helpx.adobe.com/aero/system-requirements.html)
+**System Requirments**:[link](https://helpx.adobe.com/aero/system-requirements-macos-windows.html)
+
 ## Inspiration
 Over a month, our team lead found great interest in the YouTube channel Our History. The channel has a subchannel called, Autopsy, where doctors talk about why some famous stars suddenly die.
 He noticed a trend in about 99% of the autopsy reports that most of them die from cardiac arrest or respiratory issues due to unhealthy lifestyles like excessive smoking and snouting of illegal drugs, overworking, lack of sleep, and alcohol abuse.
