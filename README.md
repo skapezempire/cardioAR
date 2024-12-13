@@ -1,6 +1,15 @@
 # cardioAR
 CardioAr allows learners to interact immersively with 3D assets, gifs, and User Interfaces of the human heart.  Learners get to immerse themselves in this AR scene hence giving them a different experience from the  the traditional way of learning.
 
+**Resources**
+**GitHub**:[link](https://github.com/skapezempire/cardioAR.git)
+**Test Project**: [link](https://adobeaero.app.link/p2tGyr5CgPb)
+**Realistic Human Heart**:[link](https://skfb.ly/oyBCT)
+**Lung and heart image**:[link](https://www.maxhealthcare.in/blogs/10-surprising-facts-about-lung-cancer)
+**Heartbeat sound**:[link](https://en.wikipedia.org/wiki/File:HROgg.ogg)
+**Heartbeat gif**:[link](https://commons.wikimedia.org/wiki/File:CG_Heart.gif#/media/File:CG_Heart.gif)
+**Respiration gif**[link](https://makeagif.com/i/Fdr_xR)
+
 ## Inspiration
 Over a month, our team lead found great interest in the YouTube channel Our History. The channel has a subchannel called, Autopsy, where doctors talk about why some famous stars suddenly die.
 He noticed a trend in about 99% of the autopsy reports that most of them die from cardiac arrest or respiratory issues due to unhealthy lifestyles like excessive smoking and snouting of illegal drugs, overworking, lack of sleep, and alcohol abuse.
@@ -48,12 +57,3 @@ Furthermore, adding more annotations to the heart is something interesting to ad
 
 Moreover, to scale, if Aero crashes when the file size is large, we will look forward to working on a similar project in Unity or Google's model viewer or leveraging the power of three.js.
 
-
-**Resources**
-**GitHub**:[link](https://github.com/skapezempire/cardioAR.git)
-**Test Project**: [link](https://adobeaero.app.link/p2tGyr5CgPb)
-**Realistic Human Heart**:[link](https://skfb.ly/oyBCT)
-**Lung and heart image**:[link](https://www.maxhealthcare.in/blogs/10-surprising-facts-about-lung-cancer)
-**Heartbeat sound**:[link](https://en.wikipedia.org/wiki/File:HROgg.ogg)
-**Heartbeat gif**:[link](https://commons.wikimedia.org/wiki/File:CG_Heart.gif#/media/File:CG_Heart.gif)
-**Respiration gif**[link](https://makeagif.com/i/Fdr_xR)
