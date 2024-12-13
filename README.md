@@ -1,7 +1,14 @@
 # cardioAR
 CardioAr allows learners to interact immersively with 3D assets, gifs, and User Interfaces of the human heart.  Learners get to immerse themselves in this AR scene hence giving them a different experience from the  the traditional way of learning.
 
+
+**System Requirements**
+**Testing with Andriod-Beta**: [link](https://helpx.adobe.com/aero/using/discover-augmented-reality-content.html)
+**Testing with IOS Device**:[link](https://helpx.adobe.com/aero/system-requirements.html)
+**System Requirments**:[link](https://helpx.adobe.com/aero/system-requirements-macos-windows.html)
+
 **Resources**
+**Technical Stack**: Adobe Aero, Figma, 
 **GitHub**:[link](https://github.com/skapezempire/cardioAR.git)
 **Test Project**: [link](https://adobeaero.app.link/p2tGyr5CgPb)
 **Realistic Human Heart**:[link](https://skfb.ly/oyBCT)
@@ -10,10 +17,14 @@ CardioAr allows learners to interact immersively with 3D assets, gifs, and User 
 **Heartbeat gif**:[link](https://commons.wikimedia.org/wiki/File:CG_Heart.gif#/media/File:CG_Heart.gif)
 **Respiration gif**[link](https://makeagif.com/i/Fdr_xR)
 
-**System Requirements**
-**Testing with Andriod-Beta**: [link](https://helpx.adobe.com/aero/using/discover-augmented-reality-content.html)
-**Testing with IOS Device**:[link](https://helpx.adobe.com/aero/system-requirements.html)
-**System Requirments**:[link](https://helpx.adobe.com/aero/system-requirements-macos-windows.html)
+**Team Contributions**: 
+**Eliel and Laureate**:Responsible for getting 3D assets and researching about the heart and lungs hence, influencing the assets to use.
+**Gladys**:Responsible for documenting resources, progress and tools used for the project to ensure we are tasked focused.
+**Winifred**: Tester, responsible for testing the Ar experience and advising on what worked and what didn't work.
+
+**Development Timeline**: 
+Day1;Get 3D, Gif and audio assets,Design UI in figma and upload assets to Adobe Aero 
+Day2;Placement of assets in the scene, adding interactivity,Test project in real life 1,2, Publish final project
 
 ## Inspiration
 Over a month, our team lead found great interest in the YouTube channel Our History. The channel has a subchannel called, Autopsy, where doctors talk about why some famous stars suddenly die.
@@ -61,4 +72,6 @@ Also, we plan on adding new 3D models of the lungs and heart (a healthy and dise
 Furthermore, adding more annotations to the heart is something interesting to add in the future.
 
 Moreover, to scale, if Aero crashes when the file size is large, we will look forward to working on a similar project in Unity or Google's model viewer or leveraging the power of three.js.
+
+
 
