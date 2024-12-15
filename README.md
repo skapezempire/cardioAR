@@ -15,7 +15,9 @@ CardioAr allows learners to interact immersively with 3D assets, gifs, and User 
 **Heartbeat gif**:[link](https://commons.wikimedia.org/wiki/File:CG_Heart.gif#/media/File:CG_Heart.gif)
 **Respiration gif**[link](https://makeagif.com/i/Fdr_xR)
 
-SLide:[link](https://docs.google.com/presentation/d/1O_wOOJrq8XmINy79qbcEd2dDXPYlLEbKZQuP6_cox64/edit?usp=sharing)
+Slide/ Documentation:[link](https://docs.google.com/presentation/d/1O_wOOJrq8XmINy79qbcEd2dDXPYlLEbKZQuP6_cox64/edit?usp=sharing)
+**Youtube Succesfully Tested Live Test**[link](https://youtu.be/0RAAwcM-hSg)
+**Playlist**[link](https://www.youtube.com/playlist?list=PLVkAiMiemh5L_yfojqludQoQQdq5bnk9S)
 
 **Remix project**
 **System Requirements**
